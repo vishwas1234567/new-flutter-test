@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Social MEdia Login',
+      title: 'Social Media Login',
       theme: ThemeData(
         primarySwatch: Colors.amber,
         accentColor: Colors.purpleAccent,
